@@ -1,3 +1,6 @@
+Terminal Commands
+_________________
+
 | **Command** | **Description** |
 | --------------|-------------------|
 | `man <tool>` | Opens man pages for the specified tool. | 
